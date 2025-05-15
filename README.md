@@ -1,20 +1,6 @@
 # TutorSRM
 by Noctis
 
-SRM for assist tutor.
-
-## Getting Started
-
-### how do I work with the app? 
-download the dart language to your PC, as well as the flutter framework. Next, install android studio and the flutter and dart plugins for it, create a new project and specify where the flutter files are located (they will be asked when creating them), then replace the files with the ones in this repository.
-
-### what's next?
-to make everything work for you and you can make a working build, you need to check if you have flutter installed and fix a couple of things like additional files. You can watch all this on YouTube. 
-you also need to install java 11 on your PC and have the sourus files there are a couple more points, but I'm too lazy to explain, so here's a video guide( https://youtu.be/QqG41s-OxPQ?si=qAViwDswqr29-JnU ).
-
-# TutorSRM
-by Noctis
-
 SRM for assisting tutors.
 
 ## Getting Started
