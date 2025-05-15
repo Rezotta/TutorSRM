@@ -3,6 +3,11 @@ by Noctis
 
 SRM for assisting tutors.
 
+### what was used?
+- Dart
+- Flutter
+
+
 ## Getting Started
 
 ###How do I work with the app?
