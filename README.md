@@ -1,16 +1,26 @@
-# flutter_project
+# TutorSRM
+by Noctis
 
-A new Flutter project.
+SRM for assist tutor.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### how do I work with the app? 
+download the dart language to your PC, as well as the flutter framework. Next, install android studio and the flutter and dart plugins for it, create a new project and specify where the flutter files are located (they will be asked when creating them), then replace the files with the ones in this repository.
 
-A few resources to get you started if this is your first Flutter project:
+### what's next?
+to make everything work for you and you can make a working build, you need to check if you have flutter installed and fix a couple of things like additional files. You can watch all this on YouTube. 
+you also need to install java 11 on your PC and have the sourus files there are a couple more points, but I'm too lazy to explain, so here's a video guide( https://youtu.be/QqG41s-OxPQ?si=qAViwDswqr29-JnU ).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# TutorSRM
+by Noctis
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SRM for assisting tutors.
+
+## Getting Started
+
+###How do I work with the app?
+Download the Dart language to your PC, as well as the Flutter framework. Next, install Android Studio and the Flutter and Dart plugins for it. Create a new project and specify where the Flutter files are located (you will be prompted to do this when creating the project), then replace the files with the ones in this repository.
+
+### What's next?
+To make everything work for you and to create a working build, you need to check if you have Flutter installed and fix a couple of things, like additional files. You can find all this information on YouTube. You also need to install Java 11 on your PC and have the source files. There are a couple more points, but I'm too lazy to explain, so here's a video guide ( https://youtu.be/QqG41s-OxPQ?si=qAViwDswqr29-JnU ).
