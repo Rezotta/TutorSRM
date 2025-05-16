@@ -10,7 +10,7 @@ SRM for assisting tutors.
 
 ## Getting Started
 
-###How do I work with the app?
+### How do I work with the app?
 Download the Dart language to your PC, as well as the Flutter framework. Next, install Android Studio and the Flutter and Dart plugins for it. Create a new project and specify where the Flutter files are located (you will be prompted to do this when creating the project), then replace the files with the ones in this repository.
 
 ### What's next?
