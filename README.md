@@ -1,4 +1,4 @@
-# TutorSRM
+# TutorСRM
 by Noctis
 
 CRM for assisting tutors.
