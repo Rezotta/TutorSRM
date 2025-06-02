@@ -8,11 +8,11 @@ void main() {
   runApp(TutorSRMApp());
 }
 
-class TutorSRMApp extends StatelessWidget {
+class TutorCRMApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'tutorSRM',
+      title: 'tutorCRM',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
