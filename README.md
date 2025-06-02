@@ -1,7 +1,7 @@
 # TutorSRM
 by Noctis
 
-SRM for assisting tutors.
+CRM for assisting tutors.
 
 ### what was used?
 - Dart
